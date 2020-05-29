@@ -1,0 +1,7 @@
+name: 'Field Extras'
+type: module
+description: 'Addition field plugins extending core.'
+core: 8.x
+package: 'Field'
+dependencies:
+  - drupal:field
